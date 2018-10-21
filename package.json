@@ -2,8 +2,11 @@
   "name": "greeter-bot",
   "version": "1.0.0",
   "description": "Discord Bot",
-  "main": "bot.js",
+  "main": "Greeting.js",
   "author": "Famizu",
+  "scripts": {
+	"start": "node Greeting.js"
+  },
   "dependencies": {
     "discord.js": "^11.4.2"
   }
