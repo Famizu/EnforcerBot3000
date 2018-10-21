@@ -1,0 +1,10 @@
+{
+  "name": "greeter-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "bot.js",
+  "author": "Famizu",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
